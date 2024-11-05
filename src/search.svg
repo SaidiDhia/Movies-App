@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7">
+  <title>SearchIcon</title>
+  <desc>Magnifying glass icon for search functionality.</desc>
+  <g fill="none" stroke="#CE8F57" stroke-linecap="square">
+    <path d="M18.5 18.3l-5.4-5.4"/>
+    <circle cx="8" cy="8" r="7"/>
+  </g>
+</svg>
+
